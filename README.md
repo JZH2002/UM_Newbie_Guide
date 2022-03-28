@@ -1,4 +1,8 @@
-# UM_Newbie_Guide
+This wiki aims to provide detailed views of University of Macau to new students
 
-A wiki to list available resources and its usage in University of Macau
-testing
+# Menu
+
+* [Settling_down](Tips_for_daily_life)
+* [Transportation](Transportation.md)
+* [Course](Course.md)
+* [Facility](Facility.md)
